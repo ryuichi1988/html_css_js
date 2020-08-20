@@ -17,7 +17,7 @@
 		color:brown;
 		font-family: tahoma;
 		font-size: 35px;
-		width: 250px
+		width: <
 	}
 	.cssin {
 		font-size: 50px;
@@ -25,7 +25,8 @@
 	}
 	.text {
 		color: rgba(111,101,239,1.00);
-		width: flex
+		width: auto;
+		border: 1px solid white;
 	}
 button{
 	font-size: 40px;
@@ -41,4 +42,35 @@ li {
 h1 {
 	font-size: 80px;
 	padding: 0px
+}
+a {
+	
+}
+.a1 {
+	color:blue;
+}
+.a2 {
+	color:rgba(198,0,197,1.00);
+}
+.a3 {
+	color : red;
+	
+}
+.换行 {
+   color:white;
+	float: right;
+	list-style: circle
+}
+.换行 li{
+	list-style: decimal-leading-zero;
+	color:blue;
+}.不换行 {
+	color:cadetblue;
+	font-family: 隶书;
+	float: right;
+	list-style: decimal-leading-zero
+}
+
+.不换行 li{
+	list-style: decimal
 }
