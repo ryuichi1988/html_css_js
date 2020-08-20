@@ -25,12 +25,14 @@
 	.text {
 		color: rgba(111,101,239,1.00)
 	}
-.button{
-	font-size: 20px;
+button{
+	font-size: 40px;
 	color: orange;
 	padding: 20px,30px,40px,50px;
 }
-.listdiv{
-	list-style: decimal-leading-zero;
+li {
+	list-style: none;
 	font-family: 楷体;
+	float: left;
+	padding: 20px;
 }
