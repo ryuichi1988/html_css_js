@@ -17,13 +17,15 @@
 		color:brown;
 		font-family: tahoma;
 		font-size: 35px;
+		width: 250px
 	}
 	.cssin {
 		font-size: 50px;
 		color: darkorange
 	}
 	.text {
-		color: rgba(111,101,239,1.00)
+		color: rgba(111,101,239,1.00);
+		width: flex
 	}
 button{
 	font-size: 40px;
@@ -35,4 +37,8 @@ li {
 	font-family: 楷体;
 	float: left;
 	padding: 20px;
+}
+h1 {
+	font-size: 80px;
+	padding: 0px
 }
