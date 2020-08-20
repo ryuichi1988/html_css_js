@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+		background: rgba(59,59,59,1.00);
+		font-family: simsun;
+		padding: 30px;
+		color: wheat;
+		 
+	}	
+	.ytest {
+		color: greenyellow;
+		padding: 10px;
+	}
+	.h4tag {
+		background-color: #CC595B;
+		color:brown;
+		font-family: tahoma;
+		font-size: 35px;
+	}
+	.cssin {
+		font-size: 50px;
+		color: darkorange
+	}
+	.text {
+		color: rgba(111,101,239,1.00)
+	}
