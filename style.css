@@ -39,10 +39,6 @@ li {
 	float: left;
 	padding: 20px;
 }
-h1 {
-	font-size: 80px;
-	padding: 0px
-}
 a {
 	
 }
@@ -73,4 +69,14 @@ a {
 
 .不换行 li{
 	list-style: decimal
+}
+h1 {
+	font-size: 80px
+}
+.python {
+	float: left;
+	padding: 10px
+}
+.headdiv{
+	height: 400px;
 }
